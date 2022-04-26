@@ -1,9 +1,10 @@
-# socialMedia-react-sanity-tailwind
-This project is a sample clone of pinterest
+# ShareMe Social Media Application
+![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
 
-# Technologies
-1. React
-2. Tailwind css to style
-3. Sanity as a backend
+## Introduction
+This is a code repository for the corresponding video tutorial.
 
-@copyright Arris Manduma
+Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
+
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
